@@ -17,24 +17,28 @@ Denne metoden har veldig sterk støtte for tekst-manipulering. enten det gjelder 
 ting slik som farge.
 
 Canvas pros:
+Bruk av Canvas foregår veldig raskt, uten å kreve mye av systemet.
+Canvas vil se praktisk talt identisk ut på forskjellige systemer.
 
 
 Meningsfylt Canvas Scenarioer:
-
+Hvis du av en eller annen grunn har lyst til få maximum ytelse ut av siden.
+Kan bruken av en canvas-fokusert arkitektur hjelpe deg med akkurat det.
+En høy eller ekslusiv fokus på Canvas vil også hjelpe sterkt til ved å ha et
+konsistent utseende for siden uavhengig av plattform og/eller nettleser.
 
 
 2) Hvilken grafisk presentasjonsmåte (se Innledning til denne oppgaven) hadde du sagt at
 HTML5 Canvas representerer? Forklar.
 
-Jeg ville sagt canvas representerer komponentmetoden for grafiske presentasjoner.
-Canvas skaper ting ved hjelp av "layers". Det er disse layerne man manipulerer for å 
-endre på tegningen. Man endrer ikke på hver individuelle strek, eller hver individuelle pixel.
-Men hvert individuelle element som ligger på et eget layer. 
+Canvas gir deg muligheten til å bruke enten individuelle lag/"layers", tegne geometriske former
+slik som linjer og firkanter, eller manipulere hver enkel piksel (så sant du vet koordinatene dens)
+Jeg ville derfor sagt at Canvas representerer den pixelmanipulerende presentasjonsmåten.
 
 
 3) EKSTRA (bare for de spesielt interesserte): en mangel på resultatet fra deloppgave 2 er at
 hvis man trykker musen nærme kanten, kan man ikke se hele teksten siden den klippes vekk
 hvis den går utover Canvas grenser; hvordan kunne man “fikse” på det vha. metodene fra
-jCanvas? Lever
+jCanvas?
 
 
